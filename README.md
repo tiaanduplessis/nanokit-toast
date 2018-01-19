@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">nanokit-toast</h1>
 <div align="center">
-  <strong>Simple Toast component for React Native/strong>
+  <strong>Simple Toast component for React Native</strong>
 </div>
 <br>
 <div align="center">

@@ -1,0 +1,19 @@
+{
+  "name": "nanokit-toast",
+  "version": "1.0.0",
+  "description": "Simple Toast component for React Native",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier-standard index.js",
+    "test": "npm run format"
+  },
+  "repository": "https://github.com/tiaanduplessis/nanokit-taost.git",
+  "author": "Tiaan du Plessis <tiaanduplessis@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "devDependencies": {
+    "prettier-standard": "^8.0.0"
+  }
+}

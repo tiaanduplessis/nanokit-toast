@@ -11,7 +11,7 @@
   "author": "Tiaan du Plessis <tiaanduplessis@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "prop-types": "^15.6.0"
+    "prop-types": "^15.7.1"
   },
   "devDependencies": {
     "prettier-standard": "^8.0.0"
